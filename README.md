@@ -7,7 +7,7 @@
 ## Curso
 
 💻 Aplicativo da Comunidade Flutter Floripa.
-s
+
 ## Escopo
 
 📚 Neste projeto, eu vou ter a oportunidade de fazer um app conforme o time da comunicade for disponibilizando. Neste primeiro momento, irei desenvolver duas telas de login conforme foi disponibilizado no Figma.
