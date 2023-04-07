@@ -14,7 +14,7 @@
 
 ## Foco
 
-😊 A propsota da Comunidade é disponibilizar desafios bem legais para praticarmos um pouco de layouts com Flutter.
+😊 A proposta da Comunidade é disponibilizar desafios bem legais para praticarmos um pouco de layouts com Flutter.
 
 ## Prazo
 
